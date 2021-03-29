@@ -1,0 +1,5 @@
+username;password;programmeSelection(0-lossWeight,1-gainWeight,2-stayFit);beginTime(dd.mm.yy)-endTime;beginWeight-endWeight;height;age;sex;dietSelection(0-Normal,1-Vegetarian,2-Vegan);nutritionalDisease(0-Normal,1-Diabetes,2-Celiac,3-Reflux);progressScore;currentMenuId
+ecekazan;ecekazanir;0;27.04.2020-01.07.2020;65.200-58.0;176;20;female;0;0;276,000;14
+kursat123;123123;1;01.01.2020-01.04.2021;42.200-141.300;176;25;male;2;1;-2.147483648E9;649
+denem12;123sifre;1;01.01.2020-01.05.2020;40.0-46.0;140;22;male;2;2;-2.147483648E9;0
+newuser1;sifre123;1;01.01.2020-01.05.2020;40.0-43.0;140;21;male;0;2;-2.147483648E9;0
